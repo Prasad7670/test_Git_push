@@ -1,1 +1,2 @@
 Git is a open source distributed version control system.
+It is designed to handle minor to major projects with high speed and efficiency.
